@@ -6,5 +6,5 @@ package com.bw.wxn.githubteamtest.View;
 
 public class fragment {
 
-    //新闻模块
+    //新闻模块、、
 }
